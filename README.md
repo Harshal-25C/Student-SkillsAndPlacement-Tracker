@@ -15,7 +15,11 @@ A platform for colleges to track student skills, progress, and placement prepara
 
 ---
 
-### Tech stack
+### Tech Stack
+
+---
+
+### Impl
 
 ---
 
