@@ -15,6 +15,10 @@ A platform for colleges to track student skills, progress, and placement prepara
 
 ---
 
+### Technologies
+
+---
+
 ### Impl
 
 ---
@@ -24,3 +28,4 @@ A platform for colleges to track student skills, progress, and placement prepara
 ---
 
 ### Authors
+- Harshal Choudhary
